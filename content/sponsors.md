@@ -15,6 +15,7 @@ Contact Us Button
 
 Our Newest Partner: 
 
-![image](https://user-images.githubusercontent.com/116322179/197086741-a8dd1183-b186-498a-a77c-4c5bf0a43c71.png)
+![image](https://user-images.githubusercontent.com/116322179/197087677-39a65bc6-71dc-441c-b4d0-086492ed405d.png)
+
 
 Sponsors grid
